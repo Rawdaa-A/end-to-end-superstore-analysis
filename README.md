@@ -1,3 +1,4 @@
+<img width="1092" height="838" alt="superstore dashboard" src="https://github.com/user-attachments/assets/1a70ed59-a1a5-4ad0-8684-10b3c6b67d84" />
 # 📊 Superstore Sales Analysis (Tableau)
 
 ## 📌 Project Overview
@@ -14,7 +15,8 @@ The goal is to extract meaningful business insights related to sales, profit, cu
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1092" height="838" alt="superstore dashboard" src="https://github.com/user-attachments/assets/df45d429-c17b-4538-b79d-93996532063d" />
+
 
 ---
 
@@ -22,10 +24,9 @@ The goal is to extract meaningful business insights related to sales, profit, cu
 - Sample - Superstore 2019.xls
 
 Includes:
-- Orders
+- Returns
 - Customers
-- Products
-- Regions
+- People
 
 ---
 
@@ -71,7 +72,7 @@ Created interactive dashboard including:
 ---
 
 ## 📦 Project File
-- `Superstore_Dashboard.twbx`
+- `superstore_dashboard.twbx`
 
 ---
 
@@ -87,7 +88,3 @@ Created interactive dashboard including:
 - Build customer segmentation models
 - Connect to live data source
 
----
-
-## 👩‍💻 Author
-Rawda Abd El Ghaffar
