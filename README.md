@@ -1,4 +1,3 @@
-<img width="1092" height="838" alt="superstore dashboard" src="https://github.com/user-attachments/assets/1a70ed59-a1a5-4ad0-8684-10b3c6b67d84" />
 # 📊 Superstore Sales Analysis (Tableau)
 
 ## 📌 Project Overview
