@@ -24,7 +24,7 @@ The goal is to extract meaningful business insights related to sales, profit, cu
 
 Includes:
 - Returns
-- Customers
+- Orders
 - People
 
 ---
